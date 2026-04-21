@@ -92,7 +92,19 @@ The team can now make decisions based on data.
 
 ## Screenshots
 
-(Add screenshots below)
+### Ecommerce Setup (Shopify)
+
+![Shopify](images/anitime_homepage.png)
+
+### Customer Lifecycle (Klaviyo)
+
+![Abandoned Cart](images/klaviyo-abandon.png)
+
+![Welcome Flow](images/klaviyo-welcome.png)
+
+### Frontend Experience
+
+![Homepage](images/homepage.png)
 
 ---
 
