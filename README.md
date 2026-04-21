@@ -94,17 +94,19 @@ The team can now make decisions based on data.
 
 ### Ecommerce Setup (Shopify)
 
-![Shopify](images/anitime_homepage.png)
+![Homepage](https://raw.githubusercontent.com/the-ooo/Customer-Success-Case---aniTime/main/anitime_homepage.png)
+
+
+![Preorder Listing](https://raw.githubusercontent.com/the-ooo/Customer-Success-Case---aniTime/main/anitime_preorder.png)
+
+
 
 ### Customer Lifecycle (Klaviyo)
 
-![Abandoned Cart](images/klaviyo-abandon.png)
+![Abandoned Cart](https://raw.githubusercontent.com/the-ooo/Customer-Success-Case---aniTime/main/klaviyo_cart_abandon.png)
 
-![Welcome Flow](images/klaviyo-welcome.png)
+![Welcome Flow](https://raw.githubusercontent.com/the-ooo/Customer-Success-Case---aniTime/main/klaviyo_welcome_reminder_postpurchase.png)
 
-### Frontend Experience
-
-![Homepage](images/homepage.png)
 
 ---
 
